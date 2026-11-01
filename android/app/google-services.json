@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "497628931847",
+    "firebase_url": "https://daflutter-app-chat-default-rtdb.firebaseio.com",
+    "project_id": "daflutter-app-chat",
+    "storage_bucket": "daflutter-app-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497628931847:android:5fcbe4bad4d828b63f47a2",
+        "android_client_info": {
+          "package_name": "com.example.miniapchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrZsNcurGaX8wGt2Yfpz9QyauWyymEmDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
